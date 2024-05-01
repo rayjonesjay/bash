@@ -1,2 +1,2 @@
 # bash
-Shell scripting for the beasts.
+Shell scripting for the interpids.
