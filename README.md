@@ -1,2 +1,1 @@
-# bash
-Shell scripting for the interpids.
+Shell scripting for the intrepid
