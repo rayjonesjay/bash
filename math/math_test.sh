@@ -2,6 +2,7 @@
 
 # import the math.sh file for testing
 . math.sh
+. shunit2
 
 # test add function
 function test_add() {
